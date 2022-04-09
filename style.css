@@ -1,0 +1,34 @@
+.head{
+	background-color: #7D3C98;
+	margin: auto;
+	font-family: arial;
+		border-radius: 30px;
+		transition: 900ms;
+}
+
+.head h1{font-size: 80px;
+
+	text-align: center;
+	color: #365656;
+
+
+
+}
+.head img{width: 20%;
+	height:10%;
+	margin: auto;
+	padding: 0px 30px;	
+}
+
+.head h1 i span{
+	
+		color: #993399;
+	
+}
+
+.head:hover{
+	
+	border-radius: 25px;
+	background-color: #fff;
+	
+}
